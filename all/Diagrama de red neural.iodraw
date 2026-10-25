@@ -775,9 +775,6 @@
             <mxPoint x="1204.25" y="992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-830" value="" style="triangle;direction=east;rotation=270;gradientColor=none;fillColor=#736CA8;gradientDirection=north;strokeColor=none;strokeWidth=4;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="141.99999999999983" width="50" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-831" value="" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="585.0000000000001" y="216.99999999999983" width="50" height="50" as="geometry" />
         </mxCell>
@@ -854,7 +851,7 @@
           <mxGeometry x="1605" y="800" width="77" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO4Sv6gCTbEIk1cyYx10-10" value="dsdasdas&lt;div&gt;sdadsad&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="810" width="77" height="100" as="geometry" />
+          <mxGeometry x="590.5799999999999" y="134.5" width="60.34" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
