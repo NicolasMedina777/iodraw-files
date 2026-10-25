@@ -850,7 +850,7 @@
         <mxCell id="ZO4Sv6gCTbEIk1cyYx10-10" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#CC99FF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="585.58" y="137" width="49.42" height="75.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZO4Sv6gCTbEIk1cyYx10-11" value="" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="ZO4Sv6gCTbEIk1cyYx10-11" value="Vulnerabilidad" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="688.5" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
