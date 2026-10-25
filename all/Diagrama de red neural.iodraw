@@ -796,7 +796,7 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-834" value="Conceptos, herramientas y beneficios" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="645" y="89.50000000000006" width="208.33333333333331" height="44.99999999999983" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-835" value="deadlock state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-835" value="Obstaculo" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="645" y="149.50000000000009" width="270" height="44.99999999999983" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-836" value="forbidden state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
