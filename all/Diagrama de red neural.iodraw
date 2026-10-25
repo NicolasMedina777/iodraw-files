@@ -98,7 +98,7 @@
           <mxGeometry x="880" y="809" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-697" value="Interdependencia" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="809" width="50" height="50" as="geometry" />
+          <mxGeometry x="665" y="809" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-698" value="Codependencia" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="809" width="85" height="50" as="geometry" />
