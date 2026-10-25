@@ -850,7 +850,7 @@
         <mxCell id="ZO4Sv6gCTbEIk1cyYx10-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Estafas&lt;/font&gt;" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1135.92" y="540" width="54.08" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZO4Sv6gCTbEIk1cyYx10-8" value="dsdasdas&lt;div&gt;sdadsad&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZO4Sv6gCTbEIk1cyYx10-8" value="dsdasdas&lt;div&gt;sdadsad&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#B266FF;" vertex="1" parent="1">
           <mxGeometry x="1598" y="790" width="77" height="100" as="geometry" />
         </mxCell>
       </root>
