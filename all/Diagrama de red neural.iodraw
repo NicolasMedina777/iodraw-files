@@ -74,7 +74,7 @@
           <mxGeometry x="1808.33" y="680" width="61.67" height="57" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-689" value="Crecimiento&lt;div&gt;profesional&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1740" y="680" width="60" height="57" as="geometry" />
+          <mxGeometry x="1730" y="680" width="70" height="57" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-690" value="Intercambio&lt;div&gt;de&lt;/div&gt;&lt;div&gt;ideas&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1655" y="680" width="70" height="57" as="geometry" />
@@ -852,6 +852,9 @@
         </mxCell>
         <mxCell id="ZO4Sv6gCTbEIk1cyYx10-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Estafas&lt;/font&gt;" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1135.92" y="540" width="54.08" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO4Sv6gCTbEIk1cyYx10-8" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="833" y="300" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
