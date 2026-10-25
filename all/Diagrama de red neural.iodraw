@@ -10,8 +10,8 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-665" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Conexiones&lt;/font&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="177" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-668" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Comunidad&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;digital&lt;/font&gt;&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="350" width="125" height="120" as="geometry" />
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-668" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Redes de&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;sociales&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="360" width="125" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-669" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Colaboraciones&lt;/font&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="360" width="120" height="120" as="geometry" />
@@ -793,7 +793,7 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-833" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="87" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-834" value="safe state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-834" value="Conceptos, herramientas y beneficios" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="645" y="89.50000000000006" width="208.33333333333331" height="44.99999999999983" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-835" value="deadlock state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
@@ -840,9 +840,6 @@
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-846" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=clock;fillColor=#FAFAFA;strokeColor=#005073;" parent="1" vertex="1">
           <mxGeometry x="490" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZO4Sv6gCTbEIk1cyYx10-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Redes de&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;sociales&lt;/font&gt;&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="267" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZO4Sv6gCTbEIk1cyYx10-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Creación de&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;contactos&lt;/span&gt;&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="1309" y="360" width="120" height="120" as="geometry" />
