@@ -26,7 +26,7 @@
           <mxGeometry x="1210" y="540" width="75" height="65" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-674" value="Clout" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1045.9999999999998" y="685.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="1040" y="685.5" width="56" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-675" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="685" y="687" width="50" height="50" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-678" value="Especialización" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="690" width="89" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-679" value="" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-679" value="Regulacion" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="687" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-680" value="" style="edgeStyle=none;strokeWidth=3;fillColor=#000000;endArrow=block;strokeColor=#23445d;gradientColor=#880000;html=1;" parent="1" source="_W7iC1SvL5sh-CcDsh3l-664" target="_W7iC1SvL5sh-CcDsh3l-665" edge="1">
