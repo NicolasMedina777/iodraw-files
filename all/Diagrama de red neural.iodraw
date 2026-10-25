@@ -802,7 +802,7 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-836" value="forbidden state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="650.92" y="219.49999999999994" width="270" height="44.99999999999983" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-837" value="unsafe state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-837" value="Deciciones" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
           <mxGeometry x="660.92" y="452.5" width="270" height="44.99999999999983" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-838" value="terminal state" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
