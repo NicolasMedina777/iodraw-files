@@ -127,8 +127,8 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-707" value="Infraestrucutra" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="585.58" y="965" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-708" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="725" y="966" width="50" height="50" as="geometry" />
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-708" value="Alianzas&lt;div&gt;Simbioticas&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="965" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-709" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="685" y="1071" width="50" height="50" as="geometry" />
