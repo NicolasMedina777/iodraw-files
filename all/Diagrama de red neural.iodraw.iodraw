@@ -92,7 +92,7 @@
           <mxGeometry x="1135.92" y="809" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-695" value="Cumplimiento" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="809" width="50" height="50" as="geometry" />
+          <mxGeometry x="945" y="809.5" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-696" value="Confianza" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="809" width="60" height="50" as="geometry" />
