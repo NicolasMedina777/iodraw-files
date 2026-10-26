@@ -143,7 +143,7 @@
           <mxGeometry x="680" y="1190" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-713" value="Conectividad" style="ellipse;fillColor=#FFFFFF;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="1195" width="60" height="40" as="geometry" />
+          <mxGeometry x="683.75" y="1195" width="82.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-714" value="Contratos&lt;div&gt;digitales&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="966" width="60" height="50" as="geometry" />
