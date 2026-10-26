@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="8qr273wxGE9K1dyLuQi-" name="Page-1">
-    <mxGraphModel dx="1977" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="1636" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -791,10 +791,10 @@
           <mxGeometry x="690.92" y="339.49999999999994" width="270" height="44.99999999999983" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-837" value="Deciciones" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
-          <mxGeometry x="690.92" y="572.5" width="270" height="44.99999999999983" as="geometry" />
+          <mxGeometry x="695" y="410" width="270" height="44.99999999999983" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-838" value="Resultados" style="text;verticalAlign=middle;fontSize=26;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fontColor=#23445D;" parent="1" vertex="1">
-          <mxGeometry x="700.92" y="647.5000000000001" width="270" height="44.99999999999983" as="geometry" />
+          <mxGeometry x="690.92" y="485.0000000000001" width="270" height="44.99999999999983" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-843" value="" style="edgeStyle=none;strokeWidth=3;fillColor=#000000;endArrow=block;strokeColor=#23445d;dashed=0;gradientColor=#880000;html=1;entryX=0.078;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_W7iC1SvL5sh-CcDsh3l-691" target="ZO4Sv6gCTbEIk1cyYx10-8" edge="1">
           <mxGeometry x="1086.7572449417012" y="358.9999999999999" width="100" height="100" as="geometry">
