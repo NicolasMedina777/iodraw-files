@@ -695,10 +695,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-811" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1071" width="50" height="50" as="geometry" />
+          <mxGeometry x="940" y="1071" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-812" value="Seguridad" style="ellipse;fillColor=#FFFFFF;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="965" y="1076" width="40" height="40" as="geometry" />
+          <mxGeometry x="950" y="1076" width="55" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-813" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1075.92" y="1190" width="50" height="50" as="geometry" />
