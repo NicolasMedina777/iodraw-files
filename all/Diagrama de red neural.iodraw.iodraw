@@ -35,7 +35,7 @@
           <mxGeometry x="1314.08" y="540" width="65.92" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-677" value="Cumplimiento&lt;div&gt;Estrategico&lt;/div&gt;" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="808.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="1030" y="808.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-678" value="Especialización" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="690" width="89" height="47" as="geometry" />
@@ -109,8 +109,8 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-700" value="" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1215" y="809" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-701" value="" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="809" width="60" height="50" as="geometry" />
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-701" value="Co-branding" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="809" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-702" value="Alianzas&lt;div&gt;Estrategicas&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="809" width="75" height="50" as="geometry" />
