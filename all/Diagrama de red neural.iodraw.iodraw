@@ -86,7 +86,7 @@
           <mxGeometry x="1465" y="685.5" width="105" height="53" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-693" value="Co Working" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="809" width="74.08" height="50" as="geometry" />
+          <mxGeometry x="1302.04" y="809" width="74.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-694" value="Amplificacion" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1125.92" y="809" width="75.92" height="49" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="780" y="809" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-700" value="Encacillamiento" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1202.5" y="809.5" width="82.5" height="50" as="geometry" />
+          <mxGeometry x="1207.5" y="810" width="87.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-701" value="Co-branding" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="809" width="80" height="50" as="geometry" />
@@ -704,7 +704,7 @@
           <mxGeometry x="1065.92" y="1032" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-814" value="" style="ellipse;fillColor=#FFFFFF;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070.92" y="1037" width="40" height="40" as="geometry" />
+          <mxGeometry x="1020.0000000000001" y="1150" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-815" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1314.0799999999997" y="1071" width="50" height="50" as="geometry" />
