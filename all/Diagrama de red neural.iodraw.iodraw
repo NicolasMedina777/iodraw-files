@@ -727,7 +727,7 @@
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-821" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1834.1699999999996" y="970" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-822" value="PIPI" style="ellipse;fillColor=#FFFFFF;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-822" value="Compromiso" style="ellipse;fillColor=#FFFFFF;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1839.1699999999996" y="975" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-823" value="" style="edgeStyle=none;strokeWidth=3;fillColor=#000000;endArrow=block;strokeColor=#23445d;dashed=0;gradientColor=#880000;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_W7iC1SvL5sh-CcDsh3l-709" edge="1" target="_W7iC1SvL5sh-CcDsh3l-712">
