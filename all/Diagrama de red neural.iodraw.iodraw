@@ -113,10 +113,10 @@
           <mxGeometry x="1400" y="809" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-702" value="Alianzas&lt;div&gt;Estrategicas&lt;/div&gt;" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1505" y="809" width="50" height="50" as="geometry" />
+          <mxGeometry x="1480" y="809" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_W7iC1SvL5sh-CcDsh3l-703" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1675" y="809" width="50" height="50" as="geometry" />
+        <mxCell id="_W7iC1SvL5sh-CcDsh3l-703" value="Visibilidad" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="809" width="55" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-704" value="" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="809" width="50" height="50" as="geometry" />
