@@ -35,7 +35,7 @@
           <mxGeometry x="1314.08" y="540" width="65.92" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-677" value="Cumplimiento&lt;div&gt;Estrategico&lt;/div&gt;" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1036" y="809" width="60" height="50" as="geometry" />
+          <mxGeometry x="1030" y="808.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-678" value="Especialización" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="690" width="89" height="47" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="1290" y="809" width="74.08" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-694" value="Amplificacion" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="810" width="75.92" height="49" as="geometry" />
+          <mxGeometry x="1125.92" y="809" width="75.92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_W7iC1SvL5sh-CcDsh3l-695" value="Cumplimiento" style="ellipse;fillColor=#12AAB5;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" parent="1" vertex="1">
           <mxGeometry x="945" y="809.5" width="80" height="49" as="geometry" />
