@@ -836,7 +836,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JeqxY21caVZd0ddLhNYp-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Estafas&lt;/font&gt;" style="strokeColor=none;fillColor=#1699D3;gradientColor=none;gradientDirection=west;strokeWidth=2;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1145.92" y="700" width="54.08" height="60" as="geometry" />
+          <mxGeometry x="1176.8400000000001" y="660" width="54.08" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JeqxY21caVZd0ddLhNYp-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Aprendizaje&lt;/font&gt;" style="shape=hexagon;fillColor=#F08705;gradientColor=none;gradientDirection=west;strokeColor=none;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="595" width="75" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
