@@ -850,14 +850,11 @@
             <mxPoint x="1553" y="817" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JeqxY21caVZd0ddLhNYp-7" value="" style="edgeStyle=none;strokeWidth=3;fillColor=#000000;endArrow=block;strokeColor=#23445d;dashed=0;gradientColor=#880000;html=1;" edge="1" parent="1">
+        <mxCell id="JeqxY21caVZd0ddLhNYp-7" value="" style="edgeStyle=none;strokeWidth=3;fillColor=#000000;endArrow=block;strokeColor=#23445d;dashed=0;gradientColor=#880000;html=1;exitX=0.031;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_W7iC1SvL5sh-CcDsh3l-681" target="_W7iC1SvL5sh-CcDsh3l-687">
           <mxGeometry x="795" y="302" width="100" height="100" as="geometry">
             <mxPoint x="1712" y="736" as="sourcePoint" />
             <mxPoint x="1675" y="812" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JeqxY21caVZd0ddLhNYp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.185;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_W7iC1SvL5sh-CcDsh3l-681" target="_W7iC1SvL5sh-CcDsh3l-681">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
